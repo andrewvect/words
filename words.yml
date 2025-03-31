@@ -15,9 +15,9 @@
   serbian_word:
     Cyrillic: ''
     Latin: ne
-  translation: ne
+  translation: нет
 4:
-  bio: ''
+  bio: возвратная частица, которая используется с возвратными глаголами
   serbian_word:
     Cyrillic: ''
     Latin: se
@@ -29,7 +29,7 @@
     Latin: i
   translation: я
 6:
-  bio: ''
+  bio: предлог
   serbian_word:
     Cyrillic: ''
     Latin: u
@@ -41,7 +41,7 @@
     Latin: sam
   translation: один
 8:
-  bio: ''
+  bio: предлог
   serbian_word:
     Cyrillic: ''
     Latin: na
@@ -59,19 +59,19 @@
     Latin: mi
   translation: мне
 11:
-  bio: ''
+  bio: предлог
   serbian_word:
     Cyrillic: ''
     Latin: za
   translation: для
 12:
-  bio: ''
+  bio: это форма глагола "biti" (быть) во 2-м лице единственного числа (ты)
   serbian_word:
     Cyrillic: ''
     Latin: si
-  translation: и
+  translation: ты являешься
 13:
-  bio: ''
+  bio: частица, употребляется при вопросах
   serbian_word:
     Cyrillic: ''
     Latin: li
@@ -89,11 +89,11 @@
     Latin: što
   translation: что
 16:
-  bio: ''
+  bio: это личное местоимение "я" в именительном падеже.
   serbian_word:
     Cyrillic: ''
     Latin: ja
-  translation: и
+  translation: я
 17:
   bio: ''
   serbian_word:
@@ -101,23 +101,23 @@
     Latin: ali
   translation: но
 18:
-  bio: ''
+  bio: предлог
   serbian_word:
     Cyrillic: ''
     Latin: sa
-  translation: на
+  translation: с
 19:
-  bio: ''
+  bio: это форма глагола "biti" (быть) во множественном числе для 3-го лица (они, оне, она)
   serbian_word:
     Cyrillic: ''
     Latin: su
-  translation: являются
+  translation: они являются
 20:
-  bio: ''
+  bio: это отрицательная форма глагола "biti" (быть) в 3-м лице единственного числа (он/она/оно).
   serbian_word:
     Cyrillic: ''
     Latin: nije
-  translation: Нет
+  translation: Не он/она/оно
 21:
   bio: ''
   serbian_word:
@@ -131,13 +131,13 @@
     Latin: me
   translation: мне
 23:
-  bio: ''
+  bio: Косвенная форма местоимения "ты"
   serbian_word:
     Cyrillic: ''
     Latin: te
-  translation: а
+  translation: ты /а,и
 24:
-  bio: ''
+  bio: предлог
   serbian_word:
     Cyrillic: ''
     Latin: od
@@ -149,17 +149,17 @@
     Latin: a
   translation: а
 26:
-  bio: ''
+  bio: это местоимение, которое используется для замены мужского рода в винительном или родительном падеже.
   serbian_word:
     Cyrillic: ''
     Latin: ga
-  translation: для
+  translation: его
 27:
   bio: ''
   serbian_word:
     Cyrillic: ''
     Latin: bi
-  translation: с
+  translation: быть
 28:
   bio: ''
   serbian_word:
@@ -167,11 +167,11 @@
     Latin: kako
   translation: как
 29:
-  bio: ''
+  bio: это предлог, который соответствует русскому "о" или "об" и используется с местным (lokativ) или винительным (akuzativ) падежами.
   serbian_word:
     Cyrillic: ''
     Latin: o
-  translation: а
+  translation: o, oб
 30:
   bio: ''
   serbian_word:
@@ -183,7 +183,7 @@
   serbian_word:
     Cyrillic: ''
     Latin: ako
-  translation: я
+  translation: если
 32:
   bio: ''
   serbian_word:
@@ -203,11 +203,11 @@
     Latin: kao
   translation: как
 35:
-  bio: ''
+  bio: это вспомогательный глагол, который используется для образования будущего времени в предложении
   serbian_word:
     Cyrillic: ''
     Latin: će
-  translation: воля
+  translation: будет
 36:
   bio: ''
   serbian_word:
@@ -231,7 +231,7 @@
   serbian_word:
     Cyrillic: ''
     Latin: mogu
-  translation: mogu
+  translation: Я могу/Они могут
 40:
   bio: ''
   serbian_word:
@@ -249,7 +249,7 @@
   serbian_word:
     Cyrillic: ''
     Latin: pa
-  translation: затем
+  translation: так что, поэтому
 43:
   bio: ''
   serbian_word:
@@ -272,14 +272,14 @@
   bio: ''
   serbian_word:
     Cyrillic: ''
-    Latin: 'on'
+    Latin: on
   translation: на
 47:
   bio: ''
   serbian_word:
     Cyrillic: ''
     Latin: još
-  translation: более
+  translation: более/еще
 48:
   bio: ''
   serbian_word:
