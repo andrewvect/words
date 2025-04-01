@@ -273,7 +273,7 @@
   serbian_word:
     Cyrillic: ''
     Latin: on
-  translation: на
+  translation: он
 47:
   bio: ''
   serbian_word:
@@ -287,17 +287,17 @@
     Latin: nešto
   translation: что-нибудь
 49:
-  bio: ''
+  bio: это средний род прошедшего времени глагола "biti" (быть).
   serbian_word:
     Cyrillic: ''
     Latin: bilo
-  translation: или
+  translation: было
 50:
   bio: ''
   serbian_word:
     Cyrillic: ''
     Latin: redu
-  translation: заказ
+  translation: В порядке, Хорошо, Ладно
 51:
   bio: ''
   serbian_word:
@@ -309,25 +309,25 @@
   serbian_word:
     Cyrillic: ''
     Latin: koji
-  translation: ВОЗ
+  translation: какой, который
 53:
   bio: ''
   serbian_word:
     Cyrillic: ''
     Latin: kad
-  translation: что
+  translation: когда
 54:
   bio: ''
   serbian_word:
     Cyrillic: ''
     Latin: vas
-  translation: vas
+  translation: ваш
 55:
   bio: ''
   serbian_word:
     Cyrillic: ''
     Latin: ću
-  translation: Больной
+  translation: я буду
 56:
   bio: ''
   serbian_word:
@@ -339,13 +339,13 @@
   serbian_word:
     Cyrillic: ''
     Latin: iz
-  translation: iz
+  translation: из
 58:
   bio: ''
   serbian_word:
     Cyrillic: ''
     Latin: mislim
-  translation: Я имею в виду
+  translation: Я думаю
 59:
   bio: ''
   serbian_word:
@@ -357,7 +357,7 @@
   serbian_word:
     Cyrillic: ''
     Latin: ili
-  translation: ili
+  translation: или
 61:
   bio: ''
   serbian_word:
@@ -369,7 +369,7 @@
   serbian_word:
     Cyrillic: ''
     Latin: ih
-  translation: ih
+  translation: их
 63:
   bio: ''
   serbian_word:
@@ -393,19 +393,19 @@
   serbian_word:
     Cyrillic: ''
     Latin: vam
-  translation: vam
+  translation: вам
 67:
   bio: ''
   serbian_word:
     Cyrillic: ''
     Latin: zar
-  translation: верно
+  translation: неужели, разве
 68:
   bio: ''
   serbian_word:
     Cyrillic: ''
     Latin: gde
-  translation: gde
+  translation: где
 69:
   bio: ''
   serbian_word:
@@ -413,17 +413,17 @@
     Latin: да
   translation: Да
 70:
-  bio: ''
+  bio: предлог
   serbian_word:
     Cyrillic: ''
     Latin: do
-  translation: делать
+  translation: до
 71:
-  bio: ''
+  bio: это форма глагола "biti" (быть) в условном наклонении для первого лица единственного числа.
   serbian_word:
     Cyrillic: ''
     Latin: bih
-  translation: Бих
+  translation: был
 72:
   bio: ''
   serbian_word:
@@ -435,13 +435,13 @@
   serbian_word:
     Cyrillic: ''
     Latin: moj
-  translation: moj
+  translation: мой
 74:
   bio: ''
   serbian_word:
     Cyrillic: ''
     Latin: mu
-  translation: Мю
+  translation: ему, для него
 75:
   bio: ''
   serbian_word:
@@ -453,13 +453,13 @@
   serbian_word:
     Cyrillic: ''
     Latin: bila
-  translation: когда
+  translation: была
 77:
   bio: ''
   serbian_word:
     Cyrillic: ''
     Latin: malo
-  translation: комната
+  translation: мало
 78:
   bio: ''
   serbian_word:
@@ -477,7 +477,7 @@
   serbian_word:
     Cyrillic: ''
     Latin: nas
-  translation: в
+  translation: нас
 81:
   bio: ''
   serbian_word:
@@ -495,7 +495,7 @@
   serbian_word:
     Cyrillic: ''
     Latin: ona
-  translation: ona
+  translation: oна
 84:
   bio: ''
   serbian_word:
@@ -507,7 +507,7 @@
   serbian_word:
     Cyrillic: ''
     Latin: tebe
-  translation: tebe
+  translation: тебе
 86:
   bio: ''
   serbian_word:
@@ -519,13 +519,13 @@
   serbian_word:
     Cyrillic: ''
     Latin: sad
-  translation: грустный
+  translation: сейчас, теперь
 88:
   bio: ''
   serbian_word:
     Cyrillic: ''
     Latin: ni
-  translation: в
+  translation: не, ни
 89:
   bio: ''
   serbian_word:
@@ -555,7 +555,7 @@
   serbian_word:
     Cyrillic: ''
     Latin: imam
-  translation: имам
+  translation: у меня есть 
 94:
   bio: ''
   serbian_word:
@@ -567,13 +567,13 @@
   serbian_word:
     Cyrillic: ''
     Latin: vi
-  translation: мы
+  translation: вы
 96:
   bio: ''
   serbian_word:
     Cyrillic: ''
     Latin: nam
-  translation: мужской
+  translation: нам
 97:
   bio: ''
   serbian_word:
@@ -585,7 +585,7 @@
   serbian_word:
     Cyrillic: ''
     Latin: tu
-  translation: Ту
+  translation: здесь
 99:
   bio: ''
   serbian_word:
