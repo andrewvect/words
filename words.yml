@@ -9374,7 +9374,6 @@
     Cyrillic: 'сместа'
     Latin: 'smesta'
   translation: 'сразу'
-```yaml
 1500:
   bio: 'существительное, дательный падеж, единственное число'
   serbian_word:
@@ -9801,7 +9800,6 @@
     Cyrillic: 'виски'
     Latin: 'viski'
   translation: 'виски'
-```yaml
 1571:
   bio: 'существительное, именительный падеж, единственное число'
   serbian_word:
