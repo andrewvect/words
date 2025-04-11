@@ -1009,7 +1009,8 @@
   serbian_word:
     Cyrillic: 'волим'
     Latin: 'volim'
-  translation: 'я люблю'161:
+  translation: 'я люблю'
+161:
   bio: 'возвратное местоимение, употребляется с глаголами'
   serbian_word:
     Cyrillic: 'се'
