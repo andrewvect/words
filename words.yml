@@ -1,2061 +1,1988 @@
 1:
-  bio: ''
+  bio: союз, выражает согласие или подтверждение
   serbian_word:
     Cyrillic: да
     Latin: da
   translation: да
 2:
-  bio: ''
+  bio: глагол, форма настоящего времени от "biti" (быть), 3-е лицо единственного числа
   serbian_word:
     Cyrillic: је
     Latin: je
-  translation: есть (форма глагола "быть")
+  translation: есть
 3:
-  bio: ''
+  bio: частица, выражает отрицание
   serbian_word:
     Cyrillic: не
     Latin: ne
-  translation: нет / не
+  translation: не
 4:
-  bio: возвратная частица, которая используется с возвратными глаголами
+  bio: возвратная частица, используется с возвратными глаголами
   serbian_word:
     Cyrillic: се
     Latin: se
   translation: себя / -ся
 5:
-  bio: союз, соединяющий слова или предложения
+  bio: союз, соединяет слова или предложения
   serbian_word:
     Cyrillic: и
     Latin: i
   translation: и
 6:
-  bio: предлог
+  bio: предлог, употребляется с винительным или местным падежом
   serbian_word:
     Cyrillic: у
     Latin: u
-  translation: в
+  translation: в / у
 7:
-  bio: форма глагола "быть" в первом лице, единственного числа
+  bio: глагол, форма настоящего времени от "biti" (быть), 1-е лицо единственного числа
   serbian_word:
     Cyrillic: сам
     Latin: sam
-  translation: я есть / я являюсь
+  translation: я есть
 8:
-  bio: предлог
+  bio: предлог, употребляется с винительным или местным падежом
   serbian_word:
     Cyrillic: на
     Latin: na
   translation: на
 9:
-  bio: личное местоимение, 2-е лицо, ед. число
+  bio: личное местоимение, 2-е лицо единственного числа, именительный падеж
   serbian_word:
     Cyrillic: ти
     Latin: ti
   translation: ты
 11:
-  bio: предлог
+  bio: предлог, употребляется с винительным или творительным падежом
   serbian_word:
     Cyrillic: за
     Latin: za
-  translation: для / за
+  translation: за / для
 12:
-  bio: форма глагола "biti" (быть) во 2-м лице единственного числа (ты)
+  bio: глагол, форма настоящего времени от "biti" (быть), 2-е лицо единственного числа
   serbian_word:
     Cyrillic: си
     Latin: si
-  translation: (ты) есть / являешься
+  translation: ты есть
 13:
-  bio: частица, употребляется при вопросах (вопросительная частица)
+  bio: вопросительная частица
   serbian_word:
     Cyrillic: ли
     Latin: li
   translation: ли
 14:
-  bio: вопросительное слово, используется в значении "что"
+  bio: вопросительное местоимение, винительный или именительный падеж
   serbian_word:
     Cyrillic: шта
     Latin: šta
   translation: что
 15:
-  bio: вопросительное слово, используется в значении "что", также может использоваться как союз "то, что"
+  bio: вопросительное местоимение или союз
   serbian_word:
     Cyrillic: што
     Latin: što
-  translation: что
+  translation: что / то, что
 16:
-  bio: это личное местоимение "я" в именительном падеже
+  bio: личное местоимение, 1-е лицо единственного числа, именительный падеж
   serbian_word:
     Cyrillic: ја
     Latin: ja
   translation: я
 17:
-  bio: союз, используется для противопоставления
+  bio: союз, выражает противопоставление
   serbian_word:
     Cyrillic: али
     Latin: ali
   translation: но
 18:
-  bio: предлог
+  bio: предлог, употребляется с творительным падежом
   serbian_word:
     Cyrillic: са
     Latin: sa
   translation: с
 19:
-  bio: форма глагола "biti" (быть) во множественном числе для 3-го лица (они, оне, она)
+  bio: глагол, форма настоящего времени от "biti" (быть), 3-е лицо множественного числа
   serbian_word:
     Cyrillic: су
     Latin: su
-  translation: (они) есть / являются
+  translation: они есть
 20:
-  bio: отрицательная форма глагола "biti" в 3-м лице ед. числа (он/она/оно)
+  bio: глагол, отрицательная форма настоящего времени от "biti" (быть), 3-е лицо единственного числа
   serbian_word:
     Cyrillic: није
     Latin: nije
-  translation: (он/она/оно) не есть / не является
+  translation: он/она/оно не есть
 21:
-  bio: наречие, означает ограничение
+  bio: наречие, выражает ограничение
   serbian_word:
     Cyrillic: само
     Latin: samo
   translation: только
 22:
-  bio: косвенная форма местоимения "я", используется как дополнение
+  bio: личное местоимение, 1-е лицо единственного числа, винительный или дательный падеж
   serbian_word:
     Cyrillic: ме
     Latin: me
   translation: меня
 23:
-  bio: косвенная форма местоимения "ты"
+  bio: личное местоимение, 2-е лицо единственного числа, винительный или дательный падеж
   serbian_word:
     Cyrillic: те
     Latin: te
   translation: тебя
 24:
-  bio: предлог, указывает на происхождение или исходную точку
+  bio: предлог, употребляется с родительным или творительным падежом
   serbian_word:
     Cyrillic: од
     Latin: od
-  translation: от / из
+  translation: от
 25:
-  bio: союз, часто используется как лёгкая противоположность или ввод слова
+  bio: союз, выражает противопоставление или переход
   serbian_word:
     Cyrillic: а
     Latin: a
   translation: а
 26:
-  bio: местоимение, используется для замены мужского рода в винительном или родительном падеже
+  bio: личное местоимение, 3-е лицо единственного числа, мужской род, винительный падеж
   serbian_word:
     Cyrillic: га
     Latin: ga
   translation: его
 27:
-  bio: вспомогательная форма глагола "biti", используется в сослагательном наклонении (бы)
+  bio: глагол, форма сослагательного наклонения от "biti" (быть)
   serbian_word:
     Cyrillic: би
     Latin: bi
   translation: бы
 28:
-  bio: вопросительное или относительное слово, означает способ действия
+  bio: вопросительное наречие или союз
   serbian_word:
     Cyrillic: како
     Latin: kako
   translation: как
 29:
-  bio: предлог, соответствует русскому "о" или "об", используется с местным или винительным падежами
+  bio: предлог, употребляется с винительным или местным падежом
   serbian_word:
     Cyrillic: о
     Latin: o
-  translation: о / об
+  translation: о
 30:
-  bio: наречие, означает положительное качество
+  bio: наречие
   serbian_word:
     Cyrillic: добро
     Latin: dobro
   translation: хорошо
 31:
-  bio: союз, вводит условное придаточное предложение
+  bio: союз, вводит условное предложение
   serbian_word:
     Cyrillic: ако
     Latin: ako
   translation: если
 32:
-  bio: местоимение или наречие, означает целое множество
+  bio: местоимение, обозначает совокупность
   serbian_word:
     Cyrillic: све
     Latin: sve
   translation: всё
-
 33:
-  bio: форма глагола "biti" (быть) в 1-м лице множественного числа (мы)
+  bio: глагол, форма настоящего времени от "biti" (быть), 1-е лицо множественного числа
   serbian_word:
     Cyrillic: смо
     Latin: smo
-  translation: (мы) есть
-
+  translation: мы есть
 34:
-  bio: союз или наречие сравнения
+  bio: союз или наречие, выражает сравнение
   serbian_word:
     Cyrillic: као
     Latin: kao
   translation: как / словно
-
 35:
-  bio: вспомогательный глагол, используется для образования будущего времени
+  bio: глагол, форма будущего времени от "hteti" (хотеть), 3-е лицо единственного числа
   serbian_word:
     Cyrillic: ће
     Latin: će
   translation: будет
-
 36:
-  bio: наречие, указывает на способ, образ или причину
+  bio: наречие, указывает на способ действия
   serbian_word:
     Cyrillic: тако
     Latin: tako
   translation: так
-
 37:
-  bio: форма глагола "znati" (знать) в 1-м лице единственного числа
+  bio: глагол, форма настоящего времени от "znati" (знать), 1-е лицо единственного числа
   serbian_word:
     Cyrillic: знам
     Latin: znam
   translation: я знаю
-
 38:
-  bio: отрицательная форма глагола "biti" в 1-м лице ед. числа (я не есть)
+  bio: глагол, отрицательная форма настоящего времени от "biti" (быть), 1-е лицо единственного числа
   serbian_word:
     Cyrillic: нисам
     Latin: nisam
-  translation: я не (есть)
-
+  translation: я не есть
 39:
-  bio: форма глагола "moći" (мочь) в 1-м лице ед. числа
+  bio: глагол, форма настоящего времени от "moći" (мочь), 1-е лицо единственного числа
   serbian_word:
     Cyrillic: могу
     Latin: mogu
   translation: я могу
-
 40:
-  bio: форма глагола "biti" во 2-м лице мн. числа (вы)
+  bio: глагол, форма настоящего времени от "biti" (быть), 2-е лицо множественного числа
   serbian_word:
     Cyrillic: сте
     Latin: ste
-  translation: вы (есть)
-
+  translation: вы есть
 41:
   bio: наречие места
   serbian_word:
     Cyrillic: овде
     Latin: ovde
   translation: здесь
-
 42:
-  bio: союз или вводное слово, часто используется для связи мыслей
+  bio: союз, выражает следствие или переход
   serbian_word:
     Cyrillic: па
     Latin: pa
-  translation: ну, так, и, зато
-
+  translation: и / так
 43:
-  bio: мужской род прошедшего времени глагола "biti" (быть)
+  bio: глагол, форма прошедшего времени от "biti" (быть), мужской род, единственное число
   serbian_word:
     Cyrillic: био
     Latin: bio
   translation: был
-
 44:
-  bio: вопросительное слово
+  bio: вопросительное наречие
   serbian_word:
     Cyrillic: зашто
     Latin: zašto
   translation: почему
-
 45:
-  bio: предлог, используется перед словами, начинающимися на согласный
+  bio: предлог, употребляется с творительным падежом
   serbian_word:
     Cyrillic: с
     Latin: s
   translation: с
-
 46:
-  bio: личное местоимение, мужской род, ед. число
+  bio: личное местоимение, 3-е лицо единственного числа, мужской род, именительный падеж
   serbian_word:
     Cyrillic: он
     Latin: on
   translation: он
-
 47:
-  bio: наречие, означает "ещё" или "дополнительно"
+  bio: наречие, выражает добавление
   serbian_word:
     Cyrillic: још
     Latin: još
   translation: ещё
-
 48:
-  bio: неопределённое местоимение, означает "что-то"
+  bio: неопределённое местоимение
   serbian_word:
     Cyrillic: нешто
     Latin: nešto
-  translation: что-нибудь / что-то
-
+  translation: что-то
 49:
-  bio: средний род прошедшего времени глагола "biti" (быть)
+  bio: глагол, форма прошедшего времени от "biti" (быть), средний род, единственное число
   serbian_word:
     Cyrillic: било
     Latin: bilo
   translation: было
-
 50:
-  bio: форма слова "ред", в выражении "у реду" означает "в порядке"
+  bio: существительное, форма слова "ред" в местном падеже, употребляется в выражении "у реду"
   serbian_word:
     Cyrillic: реду
     Latin: redu
-  translation: в порядке / ладно
+  translation: в порядке
 
 51:
-  bio: инфинитив глагола "быть"
+  bio: 'глагол, инфинитив'
   serbian_word:
-    Cyrillic: бити
-    Latin: biti
-  translation: быть
+    Cyrillic: 'бити'
+    Latin: 'biti'
+  translation: 'быть'
 
 52:
-  bio: вопросительное или относительное местоимение, согласуется по роду и числу
+  bio: 'вопросительное или относительное местоимение, согласуется по роду и числу'
   serbian_word:
-    Cyrillic: који
-    Latin: koji
-  translation: какой, который
+    Cyrillic: 'који'
+    Latin: 'koji'
+  translation: 'какой, который'
 
 53:
-  bio: вопросительное слово, означает "когда"
+  bio: 'вопросительное наречие времени'
   serbian_word:
-    Cyrillic: кад
-    Latin: kad
-  translation: когда
+    Cyrillic: 'кад'
+    Latin: 'kad'
+  translation: 'когда'
 
 54:
-  bio: косвенная форма местоимения "вы", родительный/винительный падеж
+  bio: 'личное местоимение, родительный/винительный падеж, 2-е лицо множественного числа'
   serbian_word:
-    Cyrillic: вас
-    Latin: vas
-  translation: вас, ваш
+    Cyrillic: 'вас'
+    Latin: 'vas'
+  translation: 'вас'
 
 55:
-  bio: форма глагола "hteti" (хотеть), будущее время, 1-е лицо ед. числа
+  bio: 'глагол "hteti" (хотеть), будущее время, 1-е лицо единственного числа'
   serbian_word:
-    Cyrillic: ћу
-    Latin: ću
-  translation: я буду
+    Cyrillic: 'ћу'
+    Latin: 'ću'
+  translation: 'буду'
 
 56:
-  bio: используется для выражения благодарности
+  bio: 'существительное, именительный падеж, единственное число'
   serbian_word:
-    Cyrillic: хвала
-    Latin: hvala
-  translation: спасибо
+    Cyrillic: 'хвала'
+    Latin: 'hvala'
+  translation: 'спасибо'
 
 57:
-  bio: предлог, обозначает движение изнутри чего-либо
+  bio: 'предлог'
   serbian_word:
-    Cyrillic: из
-    Latin: iz
-  translation: из
+    Cyrillic: 'из'
+    Latin: 'iz'
+  translation: 'из'
 
 58:
-  bio: глагол "думать", 1-е лицо ед. числа
+  bio: 'глагол "misliti" (думать), настоящее время, 1-е лицо единственного числа'
   serbian_word:
-    Cyrillic: мислим
-    Latin: mislim
-  translation: я думаю
+    Cyrillic: 'мислим'
+    Latin: 'mislim'
+  translation: 'я думаю'
 
 59:
-  bio: форма глагола "имати" (иметь), 3-е лицо ед. числа
+  bio: 'глагол "imati" (иметь), настоящее время, 3-е лицо единственного числа'
   serbian_word:
-    Cyrillic: има
-    Latin: ima
-  translation: (он/она/оно) имеет, есть
+    Cyrillic: 'има'
+    Latin: 'ima'
+  translation: 'имеет, есть'
 
 60:
-  bio: союз, используется для выражения альтернативы
+  bio: 'союз'
   serbian_word:
-    Cyrillic: или
-    Latin: ili
-  translation: или
+    Cyrillic: 'или'
+    Latin: 'ili'
+  translation: 'или'
 
 61:
-  bio: наречие, выражающее сомнение или возможность
+  bio: 'наречие'
   serbian_word:
-    Cyrillic: можда
-    Latin: možda
-  translation: возможно
+    Cyrillic: 'можда'
+    Latin: 'možda'
+  translation: 'возможно'
 
 62:
-  bio: косвенная форма местоимения "они", винительный падеж
+  bio: 'личное местоимение, винительный падеж, 3-е лицо множественного числа'
   serbian_word:
-    Cyrillic: их
-    Latin: ih
-  translation: их
+    Cyrillic: 'их'
+    Latin: 'ih'
+  translation: 'их'
 
 63:
-  bio: сравнительная степень наречия "много"
+  bio: 'наречие, сравнительная степень'
   serbian_word:
-    Cyrillic: више
-    Latin: više
-  translation: более
+    Cyrillic: 'више'
+    Latin: 'više'
+  translation: 'более'
 
 64:
-  bio: наречие времени, может означать "тогда", "затем"
+  bio: 'наречие времени'
   serbian_word:
-    Cyrillic: онда
-    Latin: onda
-  translation: затем
+    Cyrillic: 'онда'
+    Latin: 'onda'
+  translation: 'затем'
 
 65:
-  bio: наречие времени
+  bio: 'наречие времени'
   serbian_word:
-    Cyrillic: сада
-    Latin: sada
-  translation: сейчас
+    Cyrillic: 'сада'
+    Latin: 'sada'
+  translation: 'сейчас'
 
 66:
-  bio: косвенная форма местоимения "вы", дательный падеж
+  bio: 'личное местоимение, дательный падеж, 2-е лицо множественного числа'
   serbian_word:
-    Cyrillic: вам
-    Latin: vam
-  translation: вам
+    Cyrillic: 'вам'
+    Latin: 'vam'
+  translation: 'вам'
 
 67:
-  bio: вводное слово, используется в вопросах для выражения удивления
+  bio: 'вводное слово'
   serbian_word:
-    Cyrillic: зар
-    Latin: zar
-  translation: неужели, разве
+    Cyrillic: 'зар'
+    Latin: 'zar'
+  translation: 'неужели, разве'
 
 68:
-  bio: вопросительное наречие места
+  bio: 'вопросительное наречие места'
   serbian_word:
-    Cyrillic: где
-    Latin: gde
-  translation: где
+    Cyrillic: 'где'
+    Latin: 'gde'
+  translation: 'где'
 
 69:
-  bio: утвердительная частица
+  bio: 'частица'
   serbian_word:
-    Cyrillic: да
-    Latin: da
-  translation: да
+    Cyrillic: 'да'
+    Latin: 'da'
+  translation: 'да'
 
 70:
-  bio: предлог, означает "до", "к"
+  bio: 'предлог'
   serbian_word:
-    Cyrillic: до
-    Latin: do
-  translation: до
+    Cyrillic: 'до'
+    Latin: 'do'
+  translation: 'до'
 
 71:
-  bio: условная форма глагола "быть", 1-е лицо ед. числа
+  bio: 'глагол "бити" (быть), условное наклонение, 1-е лицо единственного числа'
   serbian_word:
-    Cyrillic: бих
-    Latin: bih
-  translation: был бы
+    Cyrillic: 'бих'
+    Latin: 'bih'
+  translation: 'был бы'
 
 72:
-  bio: глагол, используется для выражения необходимости
+  bio: 'глагол "trebati" (быть нужным), настоящее время, 3-е лицо единственного числа'
   serbian_word:
-    Cyrillic: треба
-    Latin: treba
-  translation: должен, нужно
+    Cyrillic: 'треба'
+    Latin: 'treba'
+  translation: 'нужно'
 
 73:
-  bio: притяжательное местоимение мужского рода, 1-е лицо
+  bio: 'притяжательное местоимение, мужской род, именительный падеж, единственное число'
   serbian_word:
-    Cyrillic: мој
-    Latin: moj
-  translation: мой
+    Cyrillic: 'мој'
+    Latin: 'moj'
+  translation: 'мой'
 
 74:
-  bio: косвенная форма местоимения "он", дательный падеж
+  bio: 'личное местоимение, дательный падеж, 3-е лицо единственного числа, мужской род'
   serbian_word:
-    Cyrillic: му
-    Latin: mu
-  translation: ему, для него
+    Cyrillic: 'му'
+    Latin: 'mu'
+  translation: 'ему'
 
 75:
-  bio: прошедшая форма глагола "reći" (сказать), мужской род
+  bio: 'глагол "reći" (сказать), прошедшее время, мужской род, единственное число'
   serbian_word:
-    Cyrillic: рекао
-    Latin: rekao
-  translation: сказал
+    Cyrillic: 'рекао'
+    Latin: 'rekao'
+  translation: 'сказал'
 
 76:
-  bio: прошедшая форма глагола "быть", женский род
+  bio: 'глагол "бити" (быть), прошедшее время, женский род, единственное число'
   serbian_word:
-    Cyrillic: била
-    Latin: bila
-  translation: была
+    Cyrillic: 'била'
+    Latin: 'bila'
+  translation: 'была'
 
 77:
-  bio: наречие количества
+  bio: 'наречие количества'
   serbian_word:
-    Cyrillic: мало
-    Latin: malo
-  translation: мало
+    Cyrillic: 'мало'
+    Latin: 'malo'
+  translation: 'мало'
 
 78:
-  bio: синоним слова "kad", означает "когда"
+  bio: 'вопросительное наречие времени'
   serbian_word:
-    Cyrillic: када
-    Latin: kada
-  translation: когда
+    Cyrillic: 'када'
+    Latin: 'kada'
+  translation: 'когда'
 
 79:
-  bio: отрицательное местоимение
+  bio: 'отрицательное местоимение, именительный падеж'
   serbian_word:
-    Cyrillic: ништа
-    Latin: ništa
-  translation: ничего
+    Cyrillic: 'ништа'
+    Latin: 'ništa'
+  translation: 'ничего'
 
 80:
-  bio: личное местоимение, винительный или родительный падеж
+  bio: 'личное местоимение, родительный/винительный падеж, 1-е лицо множественного числа'
   serbian_word:
-    Cyrillic: нас
-    Latin: nas
-  translation: нас
+    Cyrillic: 'нас'
+    Latin: 'nas'
+  translation: 'нас'
 
 81:
-  bio: личное местоимение, родительный или винительный падеж
+  bio: 'личное местоимение, родительный/винительный падеж, 1-е лицо единственного числа'
   serbian_word:
-    Cyrillic: мене
-    Latin: mene
-  translation: мне
+    Cyrillic: 'мене'
+    Latin: 'mene'
+  translation: 'меня'
 
 82:
-  bio: вопросительное местоимение — кто?
+  bio: 'вопросительное местоимение, именительный падеж'
   serbian_word:
-    Cyrillic: ко
-    Latin: ko
-  translation: кто
+    Cyrillic: 'ко'
+    Latin: 'ko'
+  translation: 'кто'
 
 83:
-  bio: личное местоимение, женский род
+  bio: 'личное местоимение, женский род, именительный падеж'
   serbian_word:
-    Cyrillic: она
-    Latin: ona
-  translation: она
+    Cyrillic: 'она'
+    Latin: 'ona'
+  translation: 'она'
 
 84:
-  bio: форма глагола "быть", 3-е лицо ед. числа
+  bio: 'глагол "бити" (быть), настоящее время, 3-е лицо единственного числа'
   serbian_word:
-    Cyrillic: је
-    Latin: je
-  translation: является
+    Cyrillic: 'је'
+    Latin: 'je'
+  translation: 'есть'
 
 85:
-  bio: личное местоимение, винительный падеж, 2-е лицо
+  bio: 'личное местоимение, винительный падеж, 2-е лицо единственного числа'
   serbian_word:
-    Cyrillic: тебе
-    Latin: tebe
-  translation: тебе
+    Cyrillic: 'тебе'
+    Latin: 'tebe'
+  translation: 'тебя'
 
 86:
-  bio: глагол "просить", часто используется как "пожалуйста"
+  bio: 'глагол "moliti" (просить), настоящее время, 1-е лицо единственного числа'
   serbian_word:
-    Cyrillic: молим
-    Latin: molim
-  translation: пожалуйста
+    Cyrillic: 'молим'
+    Latin: 'molim'
+  translation: 'пожалуйста'
 
 87:
-  bio: разговорная форма от "sada"
+  bio: 'наречие времени'
   serbian_word:
-    Cyrillic: сад
-    Latin: sad
-  translation: сейчас, теперь
+    Cyrillic: 'сад'
+    Latin: 'sad'
+  translation: 'сейчас'
 
 88:
-  bio: отрицательная частица, используется с другими отрицаниями
+  bio: 'отрицательная частица'
   serbian_word:
-    Cyrillic: ни
-    Latin: ni
-  translation: не, ни
+    Cyrillic: 'ни'
+    Latin: 'ni'
+  translation: 'ни'
 
 89:
-  bio: побудительная частица — "давай", "ну"
+  bio: 'частица'
   serbian_word:
-    Cyrillic: хајде
-    Latin: hajde
-  translation: ну давай же
+    Cyrillic: 'хајде'
+    Latin: 'hajde'
+  translation: 'давай'
 
 90:
-  bio: наречие места
+  bio: 'наречие места'
   serbian_word:
-    Cyrillic: тамо
-    Latin: tamo
-  translation: там
+    Cyrillic: 'тамо'
+    Latin: 'tamo'
+  translation: 'там'
 
 91:
-  bio: форма глагола "moći" — он/она/оно может
+  bio: 'глагол "moći" (мочь), настоящее время, 3-е лицо единственного числа'
   serbian_word:
-    Cyrillic: може
-    Latin: može
-  translation: может
+    Cyrillic: 'може'
+    Latin: 'može'
+  translation: 'может'
 
 92:
-  bio: форма глагола "moći" — ты можешь
+  bio: 'глагол "moći" (мочь), настоящее время, 2-е лицо единственного числа'
   serbian_word:
-    Cyrillic: можеш
-    Latin: možeš
-  translation: ты можешь
+    Cyrillic: 'можеш'
+    Latin: 'možeš'
+  translation: 'можешь'
 
 93:
-  bio: форма глагола "имати" (иметь) — у меня есть
+  bio: 'глагол "imati" (иметь), настоящее время, 1-е лицо единственного числа'
   serbian_word:
-    Cyrillic: имам
-    Latin: imam
-  translation: у меня есть
+    Cyrillic: 'имам'
+    Latin: 'imam'
+  translation: 'у меня есть'
 
 94:
-  bio: предлог, используется для обозначения причины
+  bio: 'предлог'
   serbian_word:
-    Cyrillic: због
-    Latin: zbog
-  translation: из-за
+    Cyrillic: 'због'
+    Latin: 'zbog'
+  translation: 'из-за'
 
 95:
-  bio: личное местоимение, множественное число, 2-е лицо
+  bio: 'личное местоимение, именительный падеж, 2-е лицо множественного числа'
   serbian_word:
-    Cyrillic: ви
-    Latin: vi
-  translation: вы
+    Cyrillic: 'ви'
+    Latin: 'vi'
+  translation: 'вы'
 
 96:
-  bio: личное местоимение, дательный падеж, "нам"
+  bio: 'личное местоимение, дательный падеж, 1-е лицо множественного числа'
   serbian_word:
-    Cyrillic: нам
-    Latin: nam
-  translation: нам
+    Cyrillic: 'нам'
+    Latin: 'nam'
+  translation: 'нам'
 
 97:
-  bio: форма глагола "желети" — я хочу
+  bio: 'глагол "želeti" (желать), настоящее время, 1-е лицо единственного числа'
   serbian_word:
-    Cyrillic: желим
-    Latin: želim
-  translation: я хочу
+    Cyrillic: 'желим'
+    Latin: 'želim'
+  translation: 'я хочу'
 
 98:
-  bio: наречие места
+  bio: 'наречие места'
   serbian_word:
-    Cyrillic: ту
-    Latin: tu
-  translation: здесь
+    Cyrillic: 'ту'
+    Latin: 'tu'
+  translation: 'здесь'
 
 99:
-  bio: междометие, приветствие
+  bio: 'междометие'
   serbian_word:
-    Cyrillic: хеј
-    Latin: hej
-  translation: привет
+    Cyrillic: 'хеј'
+    Latin: 'hej'
+  translation: 'привет'
 
 100:
-  bio: наречие, используется для усиления, аналог "действительно"
+  bio: 'наречие'
   serbian_word:
-    Cyrillic: стварно
-    Latin: stvarno
-  translation: действительно
+    Cyrillic: 'стварно'
+    Latin: 'stvarno'
+  translation: 'действительно'
 
 101:
-  bio: форма вспомогательного глагола "быть" — ты (в утвердительных и вопросительных предложениях)
+  bio: 'глагол "бити" (быть), настоящее время, 2-е лицо единственного числа'
   serbian_word:
-    Cyrillic: јеси
-    Latin: jesi
-  translation: ты
+    Cyrillic: 'јеси'
+    Latin: 'jesi'
+  translation: 'ты есть'
 
 102:
-  bio: союз, аналог русского "потому что"
+  bio: 'союз'
   serbian_word:
-    Cyrillic: јер
-    Latin: jer
-  translation: потому что
+    Cyrillic: 'јер'
+    Latin: 'jer'
+  translation: 'потому что'
 
 103:
-  bio: предлог, может означать "по", "через", зависит от контекста
+  bio: 'предлог'
   serbian_word:
-    Cyrillic: по
-    Latin: po
-  translation: по
+    Cyrillic: 'по'
+    Latin: 'po'
+  translation: 'по'
 
 104:
-  bio: союз или наречие, означает "поэтому", "вот почему"
+  bio: 'союз'
   serbian_word:
-    Cyrillic: зато
-    Latin: zato
-  translation: поэтому
+    Cyrillic: 'зато'
+    Latin: 'zato'
+  translation: 'поэтому'
 
 105:
-  bio: усилительная частица, аналог русского "прямо", "именно"
+  bio: 'частица'
   serbian_word:
-    Cyrillic: баш
-    Latin: baš
-  translation: прямо, именно
+    Cyrillic: 'баш'
+    Latin: 'baš'
+  translation: 'именно'
 
 106:
-  bio: существительное во множественном числе, означает "люди"
+  bio: 'существительное, именительный падеж, множественное число'
   serbian_word:
-    Cyrillic: људи
-    Latin: ljudi
-  translation: люди
+    Cyrillic: 'људи'
+    Latin: 'ljudi'
+  translation: 'люди'
 
 107:
-  bio: форма глагола "morati" — я должен
+  bio: 'глагол "morati" (быть должным), настоящее время, 1-е лицо единственного числа'
   serbian_word:
-    Cyrillic: морам
-    Latin: moram
-  translation: я должен
+    Cyrillic: 'морам'
+    Latin: 'moram'
+  translation: 'я должен'
 
 108:
-  bio: вопросительное местоимение, используется для запроса количества
+  bio: 'вопросительное местоимение'
   serbian_word:
-    Cyrillic: колико
-    Latin: koliko
-  translation: сколько?
-
+    Cyrillic: 'колико'
+    Latin: 'koliko'
+  translation: 'сколько'
 109:
-  bio: форма глагола "biti" в будущем времени — мы будем
+  bio: 'форма глагола "biti" в будущем времени, 1-е лицо множественного числа'
   serbian_word:
-    Cyrillic: ћемо
-    Latin: ćemo
-  translation: мы будем
-
+    Cyrillic: 'ћемо'
+    Latin: 'ćemo'
+  translation: 'мы будем'
 110:
-  bio: форма глагола "мислити" — ты имеешь в виду
+  bio: 'форма глагола "мислити", настоящее время, 2-е лицо единственного числа'
   serbian_word:
-    Cyrillic: мислиш
-    Latin: misliš
-  translation: ты имеешь в виду
-
+    Cyrillic: 'мислиш'
+    Latin: 'misliš'
+  translation: 'ты думаешь'
 111:
-  bio: наречие, обозначающее "уже"
+  bio: 'наречие'
   serbian_word:
-    Cyrillic: већ
-    Latin: već
-  translation: уже
-
+    Cyrillic: 'већ'
+    Latin: 'već'
+  translation: 'уже'
 112:
-  bio: числительное, означает "один"
+  bio: 'числительное, именительный падеж, единственное число, мужской род'
   serbian_word:
-    Cyrillic: један
-    Latin: jedan
-  translation: один
-
+    Cyrillic: 'један'
+    Latin: 'jedan'
+  translation: 'один'
 113:
-  bio: наречие, обозначает "предварительно"
+  bio: 'наречие'
   serbian_word:
-    Cyrillic: пре
-    Latin: pre
-  translation: предварительный
-
+    Cyrillic: 'пре'
+    Latin: 'pre'
+  translation: 'перед'
 114:
-  bio: форма глагола "biti" в будущем времени — вы будете
+  bio: 'форма глагола "biti" в будущем времени, 2-е лицо единственного числа'
   serbian_word:
-    Cyrillic: ћеш
-    Latin: ćeš
-  translation: вы будете
-
+    Cyrillic: 'ћеш'
+    Latin: 'ćeš'
+  translation: 'ты будешь'
 115:
-  bio: союз, используется для контраста, аналог "нежели"
+  bio: 'союз'
   serbian_word:
-    Cyrillic: него
-    Latin: nego
-  translation: нежели
-
+    Cyrillic: 'него'
+    Latin: 'nego'
+  translation: 'чем'
 116:
-  bio: относительное местоимение во множественном числе, используется для указания на какой-то предмет или группу предметов
+  bio: 'относительное местоимение, именительный или винительный падеж, множественное число'
   serbian_word:
-    Cyrillic: које
-    Latin: koje
-  translation: который
-
+    Cyrillic: 'које'
+    Latin: 'koje'
+  translation: 'которые'
 117:
-  bio: союз, обозначает "пока", "до тех пор, пока"
+  bio: 'союз'
   serbian_word:
-    Cyrillic: док
-    Latin: dok
-  translation: пока
-
+    Cyrillic: 'док'
+    Latin: 'dok'
+  translation: 'пока'
 118:
-  bio: форма глагола "неће" — не будет
+  bio: 'форма глагола "biti" с отрицанием, будущее время, 3-е лицо единственного числа'
   serbian_word:
-    Cyrillic: неће
-    Latin: neće
-  translation: не будет
-
+    Cyrillic: 'неће'
+    Latin: 'neće'
+  translation: 'не будет'
 119:
-  bio: наречие, обозначающее "всегда"
+  bio: 'наречие'
   serbian_word:
-    Cyrillic: увек
-    Latin: uvek
-  translation: всегда
-
+    Cyrillic: 'увек'
+    Latin: 'uvek'
+  translation: 'всегда'
 120:
-  bio: предлог, обозначает отсутствие чего-либо
+  bio: 'предлог'
   serbian_word:
-    Cyrillic: без
-    Latin: bez
-  translation: без
-
+    Cyrillic: 'без'
+    Latin: 'bez'
+  translation: 'без'
 121:
-  bio: наречие, означает "конечно"
+  bio: 'наречие'
   serbian_word:
-    Cyrillic: наравно
-    Latin: naravno
-  translation: конечно
-
+    Cyrillic: 'наравно'
+    Latin: 'naravno'
+  translation: 'конечно'
 122:
-  bio: указывает на что-то, означает "тога" (того)
+  bio: 'указательное местоимение, родительный падеж, единственное число'
   serbian_word:
-    Cyrillic: тога
-    Latin: toga
-  translation: тога
-
+    Cyrillic: 'тога'
+    Latin: 'toga'
+  translation: 'того'
 123:
-  bio: наречие, обозначающее "всегда"
+  bio: 'указательное местоимение, именительный падеж, единственное число, среднего рода'
   serbian_word:
-    Cyrillic: оно
-    Latin: ono
-  translation: всегда
-
+    Cyrillic: 'оно'
+    Latin: 'ono'
+  translation: 'оно'
 124:
-  bio: форма глагола "imati" — у тебя есть
+  bio: 'форма глагола "imati", настоящее время, 2-е лицо единственного числа'
   serbian_word:
-    Cyrillic: имаш
-    Latin: imaš
-  translation: у вас есть
-
+    Cyrillic: 'имаш'
+    Latin: 'imaš'
+  translation: 'у тебя есть'
 125:
-  bio: числительное, означает "много"
+  bio: 'неопределённое местоимение или наречие'
   serbian_word:
-    Cyrillic: много
-    Latin: mnogo
-  translation: много
-
+    Cyrillic: 'много'
+    Latin: 'mnogo'
+  translation: 'много'
 126:
-  bio: местоимение в косвенной форме — ее (объект или лицо)
+  bio: 'местоимение, дательный падеж, единственное число, женский род'
   serbian_word:
-    Cyrillic: јој
-    Latin: joj
-  translation: ее
-
+    Cyrillic: 'јој'
+    Latin: 'joj'
+  translation: 'ей'
 127:
-  bio: указательное местоимение, означает "этот"
+  bio: 'указательное местоимение, именительный падеж, единственное число, мужской род'
   serbian_word:
-    Cyrillic: овај
-    Latin: ovaj
-  translation: этот
-
+    Cyrillic: 'овај'
+    Latin: 'ovaj'
+  translation: 'этот'
 128:
-  bio: неопределённое местоимение, означает "ничего"
+  bio: 'неопределённое местоимение'
   serbian_word:
-    Cyrillic: неко
-    Latin: neko
-  translation: ничего
-
+    Cyrillic: 'неко'
+    Latin: 'neko'
+  translation: 'кто-то'
 129:
-  bio: местоимение, обозначает "они"
+  bio: 'личное местоимение, именительный падеж, множественное число'
   serbian_word:
-    Cyrillic: они
-    Latin: oni
-  translation: они
-
+    Cyrillic: 'они'
+    Latin: 'oni'
+  translation: 'они'
 130:
-  bio: существительное, означающее "время"
+  bio: 'существительное, именительный падеж, единственное число, средний род'
   serbian_word:
-    Cyrillic: време
-    Latin: vreme
-  translation: раз
-
+    Cyrillic: 'време'
+    Latin: 'vreme'
+  translation: 'время'
 131:
-  bio: указательное местоимение, означает "что"
+  bio: 'указательное местоимение, именительный падеж, единственное число, мужской род'
   serbian_word:
-    Cyrillic: тај
-    Latin: taj
-  translation: что
-
+    Cyrillic: 'тај'
+    Latin: 'taj'
+  translation: 'тот'
 132:
-  bio: предлог, который используется для указания на "код"
+  bio: 'предлог'
   serbian_word:
-    Cyrillic: код
-    Latin: kod
-  translation: код
-
+    Cyrillic: 'код'
+    Latin: 'kod'
+  translation: 'у'
 133:
-  bio: притяжательное местоимение, означающее "твой"
+  bio: 'притяжательное местоимение, именительный падеж, единственное число, мужской род'
   serbian_word:
-    Cyrillic: твој
-    Latin: tvoj
-  translation: твой
-
+    Cyrillic: 'твој'
+    Latin: 'tvoj'
+  translation: 'твой'
 134:
-  bio: приветствие, означает "привет"
+  bio: 'приветствие'
   serbian_word:
-    Cyrillic: здраво
-    Latin: zdravo
-  translation: привет
-
+    Cyrillic: 'здраво'
+    Latin: 'zdravo'
+  translation: 'привет'
 135:
-  bio: инфинитив глагола, означает "сказать"
+  bio: 'глагол, инфинитив'
   serbian_word:
-    Cyrillic: рећи
-    Latin: reći
-  translation: сказать
-
+    Cyrillic: 'рећи'
+    Latin: 'reći'
+  translation: 'сказать'
 136:
-  bio: существительное, означает "работа"
+  bio: 'существительное, именительный падеж, единственное число, мужской род'
   serbian_word:
-    Cyrillic: посао
-    Latin: posao
-  translation: работа
-
+    Cyrillic: 'посао'
+    Latin: 'posao'
+  translation: 'работа'
 137:
-  bio: наречие, означает "никогда"
+  bio: 'наречие'
   serbian_word:
-    Cyrillic: никад
-    Latin: nikad
-  translation: никогда
-
+    Cyrillic: 'никад'
+    Latin: 'nikad'
+  translation: 'никогда'
 138:
-  bio: прилагательное, означает "зло"
+  bio: 'прилагательное, именительный падеж, единственное число, мужской род'
   serbian_word:
-    Cyrillic: жао
-    Latin: žao
-  translation: зло
-
+    Cyrillic: 'жао'
+    Latin: 'žao'
+  translation: 'жаль'
 139:
-  bio: наречие, означает "лучше"
+  bio: 'наречие, сравнительная степень'
   serbian_word:
-    Cyrillic: боље
-    Latin: bolje
-  translation: лучше
-
+    Cyrillic: 'боље'
+    Latin: 'bolje'
+  translation: 'лучше'
 140:
-  bio: существительное, означает "год"
+  bio: 'существительное, именительный падеж, единственное число, женский род'
   serbian_word:
-    Cyrillic: година
-    Latin: godina
-  translation: год
-
+    Cyrillic: 'година'
+    Latin: 'godina'
+  translation: 'год'
 141:
-  bio: форма глагола "имати" — у нас есть
+  bio: 'форма глагола "imati", настоящее время, 1-е лицо множественного числа'
   serbian_word:
-    Cyrillic: имамо
-    Latin: imamo
-  translation: У нас есть
-
+    Cyrillic: 'имамо'
+    Latin: 'imamo'
+  translation: 'у нас есть'
 142:
-  bio: существительное, означает "путь"
+  bio: 'существительное, именительный падеж, единственное число, мужской род'
   serbian_word:
-    Cyrillic: пут
-    Latin: put
-  translation: помещать
-
+    Cyrillic: 'пут'
+    Latin: 'put'
+  translation: 'путь'
 143:
-  bio: форма глагола "biti" — является
+  bio: 'форма глагола "biti", настоящее время, 2-е или 3-е лицо единственного числа'
   serbian_word:
-    Cyrillic: јесте
-    Latin: jeste
-  translation: является
-
+    Cyrillic: 'јесте'
+    Latin: 'jeste'
+  translation: 'является'
 144:
-  bio: форма глагола "videti" — видеть
+  bio: 'форма глагола "videti", настоящее время, 1-е лицо единственного числа'
   serbian_word:
-    Cyrillic: видим
-    Latin: vidim
-  translation: вижу
-
+    Cyrillic: 'видим'
+    Latin: 'vidim'
+  translation: 'вижу'
 145:
-  bio: существительное, означает "день"
+  bio: 'существительное, именительный падеж, единственное число, мужской род'
   serbian_word:
-    Cyrillic: дан
-    Latin: dan
-  translation: И
-
+    Cyrillic: 'дан'
+    Latin: 'dan'
+  translation: 'день'
 146:
-  bio: существительное, означает "море"
+  bio: 'существительное, именительный падеж, единственное число, средний род'
   serbian_word:
-    Cyrillic: море
-    Latin: mora
-  translation: море
-
+    Cyrillic: 'море'
+    Latin: 'more'
+  translation: 'море'
 147:
-  bio: форма глагола "raditi" — работать
+  bio: 'форма глагола "raditi", настоящее время, 3-е лицо единственного числа'
   serbian_word:
-    Cyrillic: ради
-    Latin: radi
-  translation: работать
-
+    Cyrillic: 'ради'
+    Latin: 'radi'
+  translation: 'работает'
 148:
-  bio: форма глагола "neću" — я не буду
+  bio: 'форма глагола "biti" с отрицанием, будущее время, 1-е лицо единственного числа'
   serbian_word:
-    Cyrillic: нећу
-    Latin: neću
-  translation: я не буду
-
+    Cyrillic: 'нећу'
+    Latin: 'neću'
+  translation: 'я не буду'
 149:
-  bio: форма глагола "biti" — будет
+  bio: 'форма глагола "biti", будущее время или сослагательное наклонение, 3-е лицо единственного числа'
   serbian_word:
-    Cyrillic: буде
-    Latin: bude
-  translation: будет
-
+    Cyrillic: 'буде'
+    Latin: 'bude'
+  translation: 'будет'
 150:
-  bio: форма глагола "biti" — были
+  bio: 'форма глагола "biti", прошедшее время, множественное число'
   serbian_word:
-    Cyrillic: били
-    Latin: bili
-  translation: были
-
+    Cyrillic: 'били'
+    Latin: 'bili'
+  translation: 'были'
 151:
-  bio: форма глагола "kažem" — я говорю
+  bio: 'форма глагола "reći", настоящее время, 1-е лицо единственного числа'
   serbian_word:
-    Cyrillic: кажем
-    Latin: kažem
-  translation: Я говорю
-
+    Cyrillic: 'кажем'
+    Latin: 'kažem'
+  translation: 'я говорю'
 152:
-  bio: наречие, означает "здесь"
+  bio: 'наречие'
   serbian_word:
-    Cyrillic: овде
-    Latin: ovdje
-  translation: здесь
-
+    Cyrillic: 'овде'
+    Latin: 'ovde'
+  translation: 'здесь'
 153:
-  bio: существительное, означает "меню"
+  bio: 'существительное, дательный падеж, единственное число, мужской род'
   serbian_word:
-    Cyrillic: мени
-    Latin: meni
-  translation: меню
-
+    Cyrillic: 'мени'
+    Latin: 'meni'
+  translation: 'мне'
 154:
-  bio: форма глагола "idem" — я иду
+  bio: 'форма глагола "ići", настоящее время, 1-е лицо единственного числа'
   serbian_word:
-    Cyrillic: idem
-    Latin: idem
-  translation: одинаковый
-
+    Cyrillic: 'идем'
+    Latin: 'idem'
+  translation: 'я иду'
 155:
-  bio: существительное, означает "мама"
+  bio: 'существительное, именительный падеж, единственное число, женский род'
   serbian_word:
-    Cyrillic: мама
-    Latin: mama
-  translation: мама
-
+    Cyrillic: 'мама'
+    Latin: 'mama'
+  translation: 'мама'
 156:
-  bio: частица, означает "не"
+  bio: 'частица'
   serbian_word:
-    Cyrillic: не
-    Latin: ne
-  translation: не
-
+    Cyrillic: 'не'
+    Latin: 'ne'
+  translation: 'не'
 157:
-  bio: прилагательное, означает "хороший"
+  bio: 'прилагательное, именительный падеж, единственное число, мужской род'
   serbian_word:
-    Cyrillic: добар
-    Latin: dobar
-  translation: хороший
-
+    Cyrillic: 'добар'
+    Latin: 'dobar'
+  translation: 'хороший'
 158:
-  bio: существительное, означает "отец"
+  bio: 'существительное, именительный падеж, единственное число, мужской род'
   serbian_word:
-    Cyrillic: тата
-    Latin: tata
-  translation: отец
-
+    Cyrillic: 'тата'
+    Latin: 'tata'
+  translation: 'папа'
 159:
-  bio: форма глагола "videti" — смотреть
+  bio: 'форма глагола "videti", повелительное наклонение, 2-е лицо единственного числа'
   serbian_word:
-    Cyrillic: види
-    Latin: vidi
-  translation: Смотреть
-
+    Cyrillic: 'види'
+    Latin: 'vidi'
+  translation: 'смотри'
 160:
-  bio: форма глагола "volim" — я люблю
+  bio: 'форма глагола "voleti", настоящее время, 1-е лицо единственного числа'
   serbian_word:
-    Cyrillic: волим
-    Latin: volim
-  translation: Я люблю
-
-161:
-  bio: форма возвратного местоимения, означает "являются"
+    Cyrillic: 'волим'
+    Latin: 'volim'
+  translation: 'я люблю'161:
+  bio: 'возвратное местоимение, употребляется с глаголами'
   serbian_word:
-    Cyrillic: се
-    Latin: се
-  translation: являются
+    Cyrillic: 'се'
+    Latin: 'se'
+  translation: 'себя, себе'
 
 162:
-  bio: предлог, означает "в"
+  bio: 'местоимение, дательный падеж, множественное число'
   serbian_word:
-    Cyrillic: им
-    Latin: im
-  translation: в
+    Cyrillic: 'им'
+    Latin: 'im'
+  translation: 'им'
 
 163:
-  bio: предлог, означает "у"
+  bio: 'предлог'
   serbian_word:
-    Cyrillic: у
-    Latin: u
-  translation: у
+    Cyrillic: 'у'
+    Latin: 'u'
+  translation: 'у'
 
 164:
-  bio: существительное, означает "жизнь"
+  bio: 'существительное, именительный падеж, единственное число'
   serbian_word:
-    Cyrillic: живот
-    Latin: život
-  translation: жизнь
+    Cyrillic: 'живот'
+    Latin: 'život'
+  translation: 'жизнь'
 
 165:
-  bio: существительное, означает "дом"
+  bio: 'существительное, дательный падеж, единственное число'
   serbian_word:
-    Cyrillic: кући
-    Latin: kući
-  translation: дом
+    Cyrillic: 'кући'
+    Latin: 'kući'
+  translation: 'дому'
 
 166:
-  bio: форма глагола "reći" — сказать
+  bio: 'глагол, инфинитив'
   serbian_word:
-    Cyrillic: рећи
-    Latin: reci
-  translation: сказать
+    Cyrillic: 'рећи'
+    Latin: 'reći'
+  translation: 'сказать'
 
 167:
-  bio: соединительный союз, означает "и"
+  bio: 'соединительный союз'
   serbian_word:
-    Cyrillic: и
-    Latin: i
-  translation: и
+    Cyrillic: 'и'
+    Latin: 'i'
+  translation: 'и'
 
 168:
-  bio: числительное, означает "два"
+  bio: 'числительное, именительный падеж'
   serbian_word:
-    Cyrillic: два
-    Latin: dva
-  translation: dva
+    Cyrillic: 'два'
+    Latin: 'dva'
+  translation: 'два'
 
 169:
-  bio: местоимение, означает "ему"
+  bio: 'местоимение, винительный падеж, единственное число'
   serbian_word:
-    Cyrillic: њега
-    Latin: njega
-  translation: ему
+    Cyrillic: 'њега'
+    Latin: 'njega'
+  translation: 'его'
 
 170:
-  bio: существительное, означает "вещь"
+  bio: 'существительное, именительный падеж, единственное число'
   serbian_word:
-    Cyrillic: ствар
-    Latin: stvar
-  translation: вещь
+    Cyrillic: 'ствар'
+    Latin: 'stvar'
+  translation: 'вещь'
 
 171:
-  bio: форма отрицания, означает "Это не так"
+  bio: 'глагол, настоящее время, 3-е лицо множественного числа, отрицательная форма'
   serbian_word:
-    Cyrillic: нису
-    Latin: nisu
-  translation: Это не так
+    Cyrillic: 'нису'
+    Latin: 'nisu'
+  translation: 'не являются'
 
 172:
-  bio: прошедшее время глагола "imati", означает "имел"
+  bio: 'глагол, прошедшее время, единственное число, мужской род'
   serbian_word:
-    Cyrillic: имао
-    Latin: imao
-  translation: имел
+    Cyrillic: 'имао'
+    Latin: 'imao'
+  translation: 'имел'
 
 173:
-  bio: наречие, означает "эво"
+  bio: 'наречие'
   serbian_word:
-    Cyrillic: ево
-    Latin: evo
-  translation: эво
+    Cyrillic: 'ево'
+    Latin: 'evo'
+  translation: 'вот'
 
 174:
-  bio: наречие, означает "сегодня"
+  bio: 'наречие'
   serbian_word:
-    Cyrillic: данас
-    Latin: danas
-  translation: сегодня
+    Cyrillic: 'данас'
+    Latin: 'danas'
+  translation: 'сегодня'
 
 175:
-  bio: наречие, означает "никогда"
+  bio: 'наречие'
   serbian_word:
-    Cyrillic: никада
-    Latin: nikada
-  translation: никогда
+    Cyrillic: 'никада'
+    Latin: 'nikada'
+  translation: 'никогда'
 
 176:
-  bio: наречие, означает "немедленно"
+  bio: 'наречие'
   serbian_word:
-    Cyrillic: одмах
-    Latin: odmah
-  translation: немедленно
+    Cyrillic: 'одмах'
+    Latin: 'odmah'
+  translation: 'немедленно'
 
 177:
-  bio: означает "так много"
+  bio: 'наречие'
   serbian_word:
-    Cyrillic: толико
-    Latin: toliko
-  translation: так много
+    Cyrillic: 'толико'
+    Latin: 'toliko'
+  translation: 'так много'
 
 178:
-  bio: местоимение, означает "некоторый"
+  bio: 'местоимение, именительный падеж, единственное число'
   serbian_word:
-    Cyrillic: нека
-    Latin: neka
-  translation: некоторый
+    Cyrillic: 'нека'
+    Latin: 'neka'
+  translation: 'некоторые'
 
 179:
-  bio: форма глагола "kaže" — он говорит
+  bio: 'глагол, настоящее время, 3-е лицо единственного числа'
   serbian_word:
-    Cyrillic: каже
-    Latin: kaže
-  translation: Он говорит
+    Cyrillic: 'каже'
+    Latin: 'kaže'
+  translation: 'говорит'
 
 180:
-  bio: местоимение, означает "некоторый"
+  bio: 'местоимение, именительный падеж, единственное число'
   serbian_word:
-    Cyrillic: неки
-    Latin: neki
-  translation: некоторый
+    Cyrillic: 'неки'
+    Latin: 'neki'
+  translation: 'некоторые'
 
 181:
-  bio: существительное, означает "видео"
+  bio: 'существительное, именительный падеж, единственное число'
   serbian_word:
-    Cyrillic: видео
-    Latin: video
-  translation: видео
+    Cyrillic: 'видео'
+    Latin: 'video'
+  translation: 'видео'
 
 182:
-  bio: числительное, означает "три"
+  bio: 'числительное, именительный падеж'
   serbian_word:
-    Cyrillic: три
-    Latin: tri
-  translation: три
+    Cyrillic: 'три'
+    Latin: 'tri'
+  translation: 'три'
 
 183:
-  bio: существительное, имя, означает "Тим"
+  bio: 'существительное, именительный падеж, единственное число'
   serbian_word:
-    Cyrillic: тим
-    Latin: tim
-  translation: Тим
+    Cyrillic: 'тим'
+    Latin: 'tim'
+  translation: 'команда'
 
 184:
-  bio: местоимение, означает "тебе"
+  bio: 'местоимение, творительный падеж, единственное число'
   serbian_word:
-    Cyrillic: тобом
-    Latin: tobom
-  translation: тебе
+    Cyrillic: 'тобом'
+    Latin: 'tobom'
+  translation: 'тобой'
 
 185:
-  bio: наречие, означает "даже"
+  bio: 'наречие'
   serbian_word:
-    Cyrillic: чак
-    Latin: čak
-  translation: даже
+    Cyrillic: 'чак'
+    Latin: 'čak'
+  translation: 'даже'
 
 186:
-  bio: существительное, означает "делать"
+  bio: 'существительное, именительный падеж, единственное число'
   serbian_word:
-    Cyrillic: име
-    Latin: ime
-  translation: делать
+    Cyrillic: 'име'
+    Latin: 'ime'
+  translation: 'имя'
 
 187:
-  bio: наречие, означает "очень"
+  bio: 'наречие'
   serbian_word:
-    Cyrillic: веома
-    Latin: veoma
-  translation: очень
+    Cyrillic: 'веома'
+    Latin: 'veoma'
+  translation: 'очень'
 
 188:
-  bio: местоимение, означает "который"
+  bio: 'местоимение, винительный падеж, единственное число'
   serbian_word:
-    Cyrillic: коју
-    Latin: koju
-  translation: который
+    Cyrillic: 'коју'
+    Latin: 'koju'
+  translation: 'которую'
 
 189:
-  bio: вопросительное слово, означает "Что"
+  bio: 'вопросительное местоимение, дательный падеж'
   serbian_word:
-    Cyrillic: чему
-    Latin: čemu
-  translation: Что
+    Cyrillic: 'чему'
+    Latin: 'čemu'
+  translation: 'чему'
 
 190:
-  bio: местоимение, означает "никто"
+  bio: 'местоимение, именительный падеж, единственное число'
   serbian_word:
-    Cyrillic: нико
-    Latin: niko
-  translation: никто
+    Cyrillic: 'нико'
+    Latin: 'niko'
+  translation: 'никто'
 
 191:
-  bio: существительное, означает "о"
+  bio: 'существительное, именительный падеж, единственное число'
   serbian_word:
-    Cyrillic: око
-    Latin: oko
-  translation: о
+    Cyrillic: 'око'
+    Latin: 'oko'
+  translation: 'глаз'
 
 192:
-  bio: существительное, означает "женщина"
+  bio: 'существительное, именительный падеж, единственное число'
   serbian_word:
-    Cyrillic: жена
-    Latin: žena
-  translation: женщина
+    Cyrillic: 'жена'
+    Latin: 'žena'
+  translation: 'женщина'
 
 193:
-  bio: наречие, означает "снова"
+  bio: 'наречие'
   serbian_word:
-    Cyrillic: опет
-    Latin: opet
-  translation: снова
+    Cyrillic: 'опет'
+    Latin: 'opet'
+  translation: 'снова'
 
 194:
-  bio: наречие, означает "только"
+  bio: 'наречие'
   serbian_word:
-    Cyrillic: управо
-    Latin: upravo
-  translation: только
+    Cyrillic: 'управо'
+    Latin: 'upravo'
+  translation: 'только что'
 
 195:
-  bio: местоимение, означает "его"
+  bio: 'местоимение, притяжательное'
   serbian_word:
-    Cyrillic: свој
-    Latin: svoj
-  translation: его
+    Cyrillic: 'свој'
+    Latin: 'svoj'
+  translation: 'свой'
 
 196:
-  bio: местоимение, означает "мне"
+  bio: 'местоимение, творительный падеж, единственное число'
   serbian_word:
-    Cyrillic: мном
-    Latin: mnom
-  translation: мне
+    Cyrillic: 'мном'
+    Latin: 'mnom'
+  translation: 'мной'
 
 197:
-  bio: глагол, означает "Я сделал"
+  bio: 'глагол, настоящее время, 1-е лицо единственного числа'
   serbian_word:
-    Cyrillic: јесам
-    Latin: jesam
-  translation: Я сделал
+    Cyrillic: 'јесам'
+    Latin: 'jesam'
+  translation: 'есть'
 
 198:
-  bio: существительное, аббревиатура, обозначает "IDE"
+  bio: 'глагол, настоящее время, 3-е лицо единственного числа'
   serbian_word:
-    Cyrillic: иде
-    Latin: ide
-  translation: IDE
+    Cyrillic: 'иде'
+    Latin: 'ide'
+  translation: 'идет'
 
 199:
-  bio: местоимение, означает "сам"
+  bio: 'местоимение, именительный падеж, единственное число'
   serbian_word:
-    Cyrillic: сам
-    Latin: sam
-  translation: сам
+    Cyrillic: 'сам'
+    Latin: 'sam'
+  translation: 'сам'
 
 200:
-  bio: глагол, означает "Мы не"
+  bio: 'глагол, настоящее время, 1-е лицо множественного числа, отрицательная форма'
   serbian_word:
-    Cyrillic: нисмо
-    Latin: nismo
-  translation: Мы не
+    Cyrillic: 'нисмо'
+    Latin: 'nismo'
+  translation: 'мы не'
 
 201:
-  bio: наречие, означает "конечно"
+  bio: 'наречие'
   serbian_word:
-    Cyrillic: сигурно
-    Latin: sigurno
-  translation: конечно
+    Cyrillic: 'сигурно'
+    Latin: 'sigurno'
+  translation: 'конечно'
 
 202:
-  bio: глагол, означает "видим"
+  bio: 'глагол, настоящее время, 1-е лицо множественного числа'
   serbian_word:
-    Cyrillic: видимо
-    Latin: vidimo
-  translation: видим
+    Cyrillic: 'видимо'
+    Latin: 'vidimo'
+  translation: 'видим'
 
 203:
-  bio: наречие, означает "один раз"
+  bio: 'наречие'
   serbian_word:
-    Cyrillic: једном
-    Latin: jednom
-  translation: один раз
+    Cyrillic: 'једном'
+    Latin: 'jednom'
+  translation: 'один раз'
 
 204:
-  bio: существительное, означает "бог"
+  bio: 'существительное, именительный падеж, единственное число'
   serbian_word:
-    Cyrillic: бог
-    Latin: god
-  translation: бог
+    Cyrillic: 'бог'
+    Latin: 'bog'
+  translation: 'бог'
 
 205:
-  bio: глагол, означает "понимаете"
+  bio: 'глагол, настоящее время, 2-е лицо единственного числа'
   serbian_word:
-    Cyrillic: видиш
-    Latin: vidiš
-  translation: Понимаете
+    Cyrillic: 'видиш'
+    Latin: 'vidiš'
+  translation: 'видишь'
 
 206:
-  bio: вопросительное слово, означает "где"
+  bio: 'вопросительное наречие'
   serbian_word:
-    Cyrillic: где
-    Latin: gdje
-  translation: где
+    Cyrillic: 'где'
+    Latin: 'gde'
+  translation: 'где'
 
 207:
-  bio: существительное, означает "отец"
+  bio: 'существительное, именительный падеж, единственное число'
   serbian_word:
-    Cyrillic: отац
-    Latin: otac
-  translation: отец
+    Cyrillic: 'отац'
+    Latin: 'otac'
+  translation: 'отец'
 
 208:
-  bio: существительное, означает "мужчина"
+  bio: 'существительное, именительный падеж, единственное число'
   serbian_word:
-    Cyrillic: човек
-    Latin: čovek
-  translation: мужчина
+    Cyrillic: 'човек'
+    Latin: 'čovek'
+  translation: 'человек'
 
 209:
-  bio: местоимение, означает "тебе"
+  bio: 'местоимение, дательный падеж, единственное число'
   serbian_word:
-    Cyrillic: теби
-    Latin: tebi
-  translation: тебе
+    Cyrillic: 'теби'
+    Latin: 'tebi'
+  translation: 'тебе'
 
 210:
-  bio: наречие, означает "много"
+  bio: 'наречие'
   serbian_word:
-    Cyrillic: пуно
-    Latin: puno
-  translation: много
+    Cyrillic: 'пуно'
+    Latin: 'puno'
+  translation: 'много'
 
 211:
-  bio: наречие, означает "красивый, приятный"
+  bio: 'наречие'
   serbian_word:
-    Cyrillic: лепо
-    Latin: lepo
-  translation: красивый, приятный
+    Cyrillic: 'лепо'
+    Latin: 'lepo'
+  translation: 'красиво'
 
 212:
-  bio: существительное, означает "путь"
+  bio: 'существительное, родительный падеж, единственное число'
   serbian_word:
-    Cyrillic: пута
-    Latin: puta
-  translation: путь
+    Cyrillic: 'пута'
+    Latin: 'puta'
+  translation: 'пути'
 
 213:
-  bio: наречие, означает "очень"
+  bio: 'наречие'
   serbian_word:
-    Cyrillic: јако
-    Latin: jako
-  translation: очень
+    Cyrillic: 'јако'
+    Latin: 'jako'
+  translation: 'очень'
 
 214:
-  bio: прилагательное, означает "первый"
+  bio: 'прилагательное, именительный падеж, единственное число, мужской род'
   serbian_word:
-    Cyrillic: први
-    Latin: prvi
-  translation: первый
+    Cyrillic: 'први'
+    Latin: 'prvi'
+  translation: 'первый'
 
 215:
-  bio: существительное, означает "деньги"
+  bio: 'существительное, именительный падеж, единственное число'
   serbian_word:
-    Cyrillic: новац
-    Latin: novac
-  translation: деньги
+    Cyrillic: 'новац'
+    Latin: 'novac'
+  translation: 'деньги'
 
 216:
-  bio: наречие, означает "достаточно"
+  bio: 'наречие'
   serbian_word:
-    Cyrillic: довољно
-    Latin: dovoljno
-  translation: достаточно
+    Cyrillic: 'довољно'
+    Latin: 'dovoljno'
+  translation: 'достаточно'
 
 217:
-  bio: наречие, означает "завтра"
+  bio: 'наречие'
   serbian_word:
-    Cyrillic: сутра
-    Latin: sutra
-  translation: завтра
+    Cyrillic: 'сутра'
+    Latin: 'sutra'
+  translation: 'завтра'
 
 218:
-  bio: наречие, означает "вместе"
+  bio: 'наречие'
   serbian_word:
-    Cyrillic: заједно
-    Latin: zajedno
-  translation: вместе
+    Cyrillic: 'заједно'
+    Latin: 'zajedno'
+  translation: 'вместе'
 
 219:
-  bio: местоимение, означает "себе"
+  bio: 'местоимение, дательный падеж, единственное число'
   serbian_word:
-    Cyrillic: себе
-    Latin: sebe
-  translation: себе
+    Cyrillic: 'себе'
+    Latin: 'sebe'
+  translation: 'себе'
 
 220:
-  bio: прилагательное, означает "другой"
+  bio: 'прилагательное, именительный падеж, единственное число, мужской род'
   serbian_word:
-    Cyrillic: други
-    Latin: drugi
-  translation: другой
+    Cyrillic: 'други'
+    Latin: 'drugi'
+  translation: 'другой'
 
 221:
-  bio: местоимение, означает "их"
+  bio: 'местоимение, винительный падеж, множественное число'
   serbian_word:
-    Cyrillic: њих
-    Latin: njih
-  translation: их
+    Cyrillic: 'њих'
+    Latin: 'njih'
+  translation: 'их'
 
 222:
-  bio: наречие, означает "достаточно"
+  bio: 'наречие'
   serbian_word:
-    Cyrillic: доста
-    Latin: dosta
-  translation: достаточно
+    Cyrillic: 'доста'
+    Latin: 'dosta'
+  translation: 'достаточно'
 
 223:
-  bio: существительное, означает "проблема"
+  bio: 'существительное, именительный падеж, единственное число'
   serbian_word:
-    Cyrillic: проблем
-    Latin: problem
-  translation: проблема
+    Cyrillic: 'проблем'
+    Latin: 'problem'
+  translation: 'проблема'
 
 224:
-  bio: глагол, означает "у вас есть"
+  bio: 'глагол, настоящее время, 2-е лицо множественного числа'
   serbian_word:
-    Cyrillic: имате
-    Latin: imate
-  translation: у вас есть
+    Cyrillic: 'имате'
+    Latin: 'imate'
+  translation: 'у вас есть'
 
 225:
-  bio: аббревиатура, не имеет смысла в данном контексте
+  bio: 'не слово, возможно ошибка'
   serbian_word:
-    Cyrillic: г
-    Latin: g
-  translation: нет перевода (это не слово, а аббревиатура или ошибка)
+    Cyrillic: 'г'
+    Latin: 'g'
+  translation: 'нет перевода'
 
 226:
-  bio: предлог, означает "в соответствии с"
+  bio: 'предлог'
   serbian_word:
-    Cyrillic: према
-    Latin: prema
-  translation: в соответствии с
-
+    Cyrillic: 'према'
+    Latin: 'prema'
+  translation: 'в соответствии с'
 227:
-  bio: наречие, означает "отсюда"
+  bio: наречие
   serbian_word:
     Cyrillic: одовде
     Latin: odavde
   translation: отсюда
 
 228:
-  bio: существительное, означает "место"
+  bio: существительное, именительный падеж, единственное число
   serbian_word:
     Cyrillic: место
     Latin: mesto
   translation: место
 
 229:
-  bio: местоимение, означает "кому"
+  bio: местоимение, винительный падеж
   serbian_word:
     Cyrillic: кога
     Latin: koga
-  translation: кому
+  translation: кого
 
 230:
-  bio: наречие, означает "сюда"
+  bio: наречие
   serbian_word:
     Cyrillic: овамо
     Latin: ovamo
-  translation: сюда (не "здесь")
+  translation: сюда
 
 231:
-  bio: наречие, означает "очень"
+  bio: наречие
   serbian_word:
     Cyrillic: врло
     Latin: vrlo
   translation: очень
 
 232:
-  bio: прилагательное, означает "драго" (имя)
+  bio: прилагательное, именительный падеж, единственное число, средний род
   serbian_word:
     Cyrillic: драго
     Latin: drago
-  translation: Драго (имя)
+  translation: дорогой
 
 233:
-  bio: существительное, означает "способ"
+  bio: существительное, именительный падеж, единственное число
   serbian_word:
     Cyrillic: начин
     Latin: način
   translation: способ
 
 234:
-  bio: глагол, означает "случилось"
+  bio: глагол, прошедшее время, 3-е лицо единственного числа, средний род
   serbian_word:
     Cyrillic: десило
     Latin: desilo
   translation: случилось
 
 235:
-  bio: грубое слово, означает "неприятности"
+  bio: существительное, грубое, именительный падеж, единственное число
   serbian_word:
     Cyrillic: срање
     Latin: sranje
-  translation: неприятности (не "бритья")
+  translation: дерьмо
 
 236:
-  bio: глагол, форма от "быть", означает "буду"
+  bio: глагол, будущее время, 1-е лицо единственного числа
   serbian_word:
     Cyrillic: будем
     Latin: budem
   translation: буду
 
 237:
-  bio: существительное, означает "помощь"
+  bio: глагол, инфинитив
   serbian_word:
     Cyrillic: помоћи
     Latin: pomoći
-  translation: помощь
+  translation: помочь
 
 238:
-  bio: наречие, означает "снова"
+  bio: наречие
   serbian_word:
     Cyrillic: поново
     Latin: ponovo
   translation: снова
 
 239:
-  bio: частица, означает "и" (используется для усиления)
+  bio: частица
   serbian_word:
     Cyrillic: ма
     Latin: ma
-  translation: и
+  translation: ну
 
 240:
-  bio: предлог, означает "через"
+  bio: предлог
   serbian_word:
     Cyrillic: кроз
     Latin: kroz
   translation: через
 
 241:
-  bio: предлог, означает "после"
+  bio: предлог
   serbian_word:
     Cyrillic: после
     Latin: posle
   translation: после
 
 242:
-  bio: глагол, форма от "не будешь", означает "ты не будешь"
+  bio: глагол, будущее время, отрицательная форма, 2-е лицо единственного числа
   serbian_word:
     Cyrillic: нећеш
     Latin: nećeš
   translation: ты не будешь
 
 243:
-  bio: наречие, означает "действительно"
+  bio: наречие
   serbian_word:
     Cyrillic: заиста
     Latin: zaista
   translation: действительно
 
 244:
-  bio: существительное, означает "дверь"
+  bio: существительное, именительный падеж, множественное число
   serbian_word:
     Cyrillic: врата
     Latin: vrata
-  translation: дверь
+  translation: двери
 
 245:
-  bio: наречие, означает "быстро"
+  bio: наречие
   serbian_word:
     Cyrillic: брзо
     Latin: brzo
   translation: быстро
 
 246:
-  bio: местоимение, означает "кто"
+  bio: местоимение, именительный падеж
   serbian_word:
     Cyrillic: ко
-    Latin: tko
+    Latin: ko
   translation: кто
 
 247:
-  bio: местоимение, означает "им"
+  bio: местоимение, дательный падеж
   serbian_word:
-    Cyrillic: њим
-    Latin: njim
+    Cyrillic: њима
+    Latin: njima
   translation: им
 
 248:
-  bio: прилагательное, означает "уверенный"
+  bio: прилагательное, именительный падеж, единственное число, мужской род
   serbian_word:
     Cyrillic: сигуран
     Latin: siguran
   translation: уверенный
 
 249:
-  bio: прилагательное, означает "несколько"
+  bio: числительное
   serbian_word:
     Cyrillic: неколико
     Latin: nekoliko
   translation: несколько
 
 250:
-  bio: существительное, означает "пара"
+  bio: существительное, именительный падеж, единственное число
   serbian_word:
     Cyrillic: пар
     Latin: par
   translation: пара
 
 251:
-  bio: существительное, означает "ночь"
+  bio: существительное, именительный падеж, единственное число
   serbian_word:
     Cyrillic: ноћ
     Latin: noć
   translation: ночь
 
 252:
-  bio: наречие, означает "долго"
+  bio: наречие
   serbian_word:
     Cyrillic: дуго
     Latin: dugo
   translation: долго
 
 253:
-  bio: предлог, означает "под"
+  bio: предлог
   serbian_word:
     Cyrillic: под
     Latin: pod
   translation: под
 
 254:
-  bio: наречие, означает "плохо"
+  bio: наречие
   serbian_word:
     Cyrillic: лоше
     Latin: loše
   translation: плохо
 
 255:
-  bio: наречие, означает "слишком"
+  bio: наречие
   serbian_word:
     Cyrillic: превише
     Latin: previše
   translation: слишком
 
 256:
-  bio: прилагательное, означает "наш"
+  bio: прилагательное, именительный падеж, единственное число, мужской род
   serbian_word:
     Cyrillic: наш
     Latin: naš
   translation: наш
 
 257:
-  bio: наречие, означает "сегодня вечером"
+  bio: наречие
   serbian_word:
     Cyrillic: вечерас
     Latin: večeras
   translation: сегодня вечером
 
 258:
-  bio: предлог, означает "на"
+  bio: предлог
   serbian_word:
     Cyrillic: на
     Latin: na
   translation: на
 
 259:
-  bio: местоимение, означает "мой"
+  bio: местоимение, именительный падеж, единственное число, мужской род
   serbian_word:
-    Cyrillic: мог
-    Latin: mog
+    Cyrillic: мој
+    Latin: moj
   translation: мой
 
 260:
-  bio: наречие, означает "так"
+  bio: наречие
   serbian_word:
     Cyrillic: овако
     Latin: ovako
   translation: так
 
 261:
-  bio: слово, означает "извините"
+  bio: глагол, повелительное наклонение, множественное число
   serbian_word:
     Cyrillic: извините
     Latin: izvinite
   translation: извините
 
 262:
-  bio: прилагательное, означает "ваш"
+  bio: прилагательное, именительный падеж, единственное число, мужской род
   serbian_word:
     Cyrillic: ваш
     Latin: vaš
   translation: ваш
 
 263:
-  bio: глагол, форма от "вы будете"
+  bio: глагол, будущее время, 2-е лицо множественного числа
   serbian_word:
     Cyrillic: ћете
     Latin: ćete
   translation: вы будете
 
 264:
-  bio: наречие, означает "вверх"
+  bio: наречие
   serbian_word:
     Cyrillic: горе
     Latin: gore
   translation: вверх
 
 265:
-  bio: прилагательное, означает "тот"
+  bio: наречие
   serbian_word:
     Cyrillic: исто
     Latin: isto
-  translation: тот
+  translation: так же
 
 266:
-  bio: существительное, означает "право"
+  bio: существительное, именительный падеж, единственное число
   serbian_word:
     Cyrillic: право
     Latin: pravo
   translation: право
 
 267:
-  bio: предлог, означает "после"
+  bio: предлог
   serbian_word:
     Cyrillic: након
     Latin: nakon
   translation: после
 
 268:
-  bio: прилагательное, означает "трудный" или "тяжелый"
+  bio: прилагательное, именительный падеж, единственное число, средний род
   serbian_word:
     Cyrillic: тешко
     Latin: teško
   translation: трудный
 
 269:
-  bio: прилагательное, означает "каждый"
+  bio: прилагательное, именительный падеж, единственное число, мужской род
   serbian_word:
     Cyrillic: сваки
     Latin: svaki
   translation: каждый
 
 270:
-  bio: местоимение, означает "нам"
+  bio: местоимение, дательный падеж, множественное число
   serbian_word:
     Cyrillic: нама
     Latin: nama
   translation: нам
 
 271:
-  bio: предлог, означает "против"
+  bio: предлог
   serbian_word:
     Cyrillic: против
     Latin: protiv
   translation: против
 
 272:
-  bio: глагол, означает "слышал"
+  bio: глагол, прошедшее время, 1-е лицо единственного числа, мужской род
   serbian_word:
     Cyrillic: чуо
     Latin: čuo
   translation: слышал
 
 273:
-  bio: прилагательное, означает "малый"
+  bio: прилагательное, именительный падеж, единственное число, мужской род
   serbian_word:
     Cyrillic: мали
     Latin: mali
-  translation: малый
+  translation: маленький
 
 274:
-  bio: местоимение, означает "вам"
+  bio: местоимение, дательный падеж, множественное число
   serbian_word:
     Cyrillic: вама
     Latin: vama
   translation: вам
 
 275:
-  bio: наречие, означает "до"
+  bio: наречие
   serbian_word:
-    Cyrillic: прије
-    Latin: prije
+    Cyrillic: пре
+    Latin: pre
   translation: до
 
 276:
-  bio: наречие, означает "позже"
+  bio: наречие
   serbian_word:
     Cyrillic: касније
     Latin: kasnije
   translation: позже
 
 277:
-  bio: отрицательная форма глагола "быть", используется для указания на что-то невозможное или отсутствующее
+  bio: глагол, отрицательная форма, настоящее время, 2-е лицо множественного числа
   serbian_word:
     Cyrillic: нисте
     Latin: niste
-  translation: некоторые
+  translation: вы не
 
 278:
-  bio: существительное, обозначающее единицу времени — минута
+  bio: существительное, именительный падеж, единственное число
   serbian_word:
     Cyrillic: минута
     Latin: minuta
   translation: минута
 
 279:
-  bio: форма будущего времени глагола "быть", используется для обозначения существования или состояния в будущем
+  bio: глагол, будущее время, 3-е лицо единственного числа
   serbian_word:
     Cyrillic: биће
     Latin: biće
-  translation: существование
+  translation: будет
 
 280:
-  bio: буква "л" в латинском алфавите
+  bio: буква
   serbian_word:
     Cyrillic: л
     Latin: l
   translation: л
 
 281:
-  bio: наречие, означает "внутри", "в"
+  bio: наречие
   serbian_word:
     Cyrillic: унутра
     Latin: unutra
-  translation: в
+  translation: внутри
 
 282:
-  bio: прилагательное, означающее "истинный", "настоящий"
+  bio: прилагательное, именительный падеж, единственное число, мужской род
   serbian_word:
     Cyrillic: прави
     Latin: pravi
-  translation: истинный
+  translation: настоящий
 
 283:
-  bio: существительное, используемое для обозначения стола или плоской поверхности, на которой можно работать
+  bio: существительное, именительный падеж, единственное число
   serbian_word:
     Cyrillic: сто
     Latin: sto
-  translation: что
+  translation: стол
 
 284:
-  bio: вопросительное слово, используемое для запроса о чем-то или каком-то объекте
+  bio: местоимение, вопросительное
   serbian_word:
     Cyrillic: шта
     Latin: šta
   translation: что
 
 285:
-  bio: существительное, означающее мать, женский род
+  bio: существительное, именительный падеж, единственное число
   serbian_word:
     Cyrillic: мајка
     Latin: majka
   translation: мать
 
 286:
-  bio: наречие, означает "кроме"
+  bio: предлог
   serbian_word:
     Cyrillic: осим
     Latin: osim
   translation: кроме
 
 287:
-  bio: форма глагола "имати" (иметь) в прошедшем времени, 3-е лицо, единственное число
+  bio: глагол, прошедшее время, 3-е лицо единственного числа, женский род
   serbian_word:
     Cyrillic: имала
     Latin: imala
-  translation: имел
+  translation: имела
 
 288:
-  bio: разговорное приветствие, эквивалент "Привет" или "Здравствуй"
+  bio: междометие
   serbian_word:
     Cyrillic: ћао
     Latin: ćao
-  translation: Ćao
+  translation: привет
 
 289:
-  bio: глагол, означает "нравиться", "быть приятным"
+  bio: глагол, настоящее время, 3-е лицо единственного числа
   serbian_word:
     Cyrillic: свиђа
     Latin: sviđa
-  translation: нравиться
+  translation: нравится
 
 290:
-  bio: существительное, означающее помощь или содействие
+  bio: существительное, именительный падеж, единственное число
   serbian_word:
     Cyrillic: помоћ
     Latin: pomoć
   translation: помощь
 
 291:
-  bio: числительное, означает "две"
+  bio: числительное
   serbian_word:
     Cyrillic: две
     Latin: dve
   translation: две
 
 292:
-  bio: форма глагола "мислити" (думать) в настоящем времени, 2-е лицо, множественное число
+  bio: глагол, настоящее время, 2-е лицо множественного числа
   serbian_word:
     Cyrillic: мислите
     Latin: mislite
-  translation: Вы думаете
+  translation: вы думаете
 
 293:
-  bio: существительное, означает "дома", в родительном падеже от "kuća" (дом)
+  bio: существительное, родительный падеж, множественное число
   serbian_word:
     Cyrillic: куће
     Latin: kuće
-  translation: дома
+  translation: домов
 
 294:
-  bio: форма глагола "имати" (иметь) в настоящем времени, 3-е лицо, множественное число
+  bio: глагол, настоящее время, 3-е лицо множественного числа
   serbian_word:
     Cyrillic: имају
     Latin: imaju
-  translation: иметь
+  translation: имеют
 
 295:
-  bio: глагол, означает "отпустить" или "пустить"
+  bio: глагол, повелительное наклонение, 2-е лицо единственного числа
   serbian_word:
     Cyrillic: пусти
     Latin: pusti
-  translation: Отпустить
+  translation: отпусти
 
 296:
-  bio: предлог, означает "через"
+  bio: предлог
   serbian_word:
     Cyrillic: преко
     Latin: preko
   translation: через
 
 297:
-  bio: личное местоимение во втором лице, означает "ты"
+  bio: местоимение, именительный падеж, 2-е лицо единственного числа
   serbian_word:
     Cyrillic: ти
-    Latin: ти
-  translation: ти
+    Latin: ti
+  translation: ты
 
 298:
-  bio: инфинитив глагола "приходить"
+  bio: глагол, инфинитив
   serbian_word:
     Cyrillic: доћи
     Latin: doći
-  translation: приходить
+  translation: прийти
 
 299:
-  bio: местоимение в женском роде, означает "один" в контексте множественного числа
+  bio: местоимение, именительный падеж, множественное число, женский род
   serbian_word:
     Cyrillic: оне
     Latin: one
-  translation: один
+  translation: они
 
 300:
-  bio: наречие, означает "вероятно", "возможно"
+  bio: наречие
   serbian_word:
     Cyrillic: вероватно
     Latin: verovatno
