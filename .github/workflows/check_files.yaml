@@ -38,6 +38,10 @@ jobs:
         run: pip install yamllint
       - name: Configure yamllint to ignore document-start and truthy
         run: |
-          echo "rules:\n  document-start: disable\n  truthy: disable" > .yamllint
+          cat <<EOF > .yamllint
+          rules:
+            document-start: disable
+            truthy: disable
+          EOF
       - name: Lint YAML files
         run: yamllint .
