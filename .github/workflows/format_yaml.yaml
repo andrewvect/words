@@ -24,3 +24,9 @@ jobs:
         run: npm install --global prettier
       - name: Check YAML formatting
         run: prettier --check '**/*.{yaml,yml}'
+      - name: Fix YAML formatting
+        run: prettier --write '**/*.{yaml,yml}'
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'chore: auto-format YAML files with Prettier'
