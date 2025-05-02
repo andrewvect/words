@@ -1,0 +1,24 @@
+name: Check YAML files
+
+on:
+  push:
+    paths:
+      - '**/*.yaml'
+  pull_request:
+    paths:
+      - '**/*.yaml'
+
+jobs:
+  yamllint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - name: Install yamllint
+        run: pip install yamllint
+      - name: Lint YAML files
+        run: yamllint .
