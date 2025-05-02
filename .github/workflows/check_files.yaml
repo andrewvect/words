@@ -28,10 +28,8 @@ jobs:
           python-version: '3.x'
       - name: Install yamllint
         run: pip install yamllint
-- name: Configure yamllint to ignore document-start and truthy
-  run: |
-    echo "rules:" > .yamllint
-    echo "  document-start: disable" >> .yamllint
-    echo "  truthy: disable" >> .yamllint
-- name: Lint YAML files
-  run: yamllint .
+      - name: Configure yamllint to ignore document-start and truthy
+        run: |
+          echo "rules:\n  document-start: disable\n  truthy: disable" > .yamllint
+      - name: Lint YAML files
+        run: yamllint .
